@@ -1,0 +1,17 @@
+{
+  "name": "hsd-mempool-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcfg": "^0.1.6",
+    "hs-client": "0.0.8",
+    "hsd": "git+https://github.com/handshake-org/hsd.git"
+  }
+}
